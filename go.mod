@@ -1,4 +1,4 @@
-module github.com/nqmt/gotime
+module github.com/nqmt/gouuid
 
 go 1.18
 
